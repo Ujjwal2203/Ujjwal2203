@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Jain</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
-- 🔭 I’m currently working on **Ticket Reselling Application**
+- 🔭 I’m currently working on Ticket Reselling Application
 
 - 🌱 I’m currently learning **express.js**
 
